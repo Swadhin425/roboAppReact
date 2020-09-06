@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/roboAppReact/static/css/main.0ddb6699.chunk.css",
-    "main.js": "/roboAppReact/static/js/main.575fe5ea.chunk.js",
-    "main.js.map": "/roboAppReact/static/js/main.575fe5ea.chunk.js.map",
+    "main.js": "/roboAppReact/static/js/main.f04f9562.chunk.js",
+    "main.js.map": "/roboAppReact/static/js/main.f04f9562.chunk.js.map",
     "runtime-main.js": "/roboAppReact/static/js/runtime-main.fdb2b136.js",
     "runtime-main.js.map": "/roboAppReact/static/js/runtime-main.fdb2b136.js.map",
     "static/css/2.3c03f26f.chunk.css": "/roboAppReact/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.cab51068.chunk.js": "/roboAppReact/static/js/2.cab51068.chunk.js",
-    "static/js/2.cab51068.chunk.js.map": "/roboAppReact/static/js/2.cab51068.chunk.js.map",
+    "static/js/2.e279aa7b.chunk.js": "/roboAppReact/static/js/2.e279aa7b.chunk.js",
+    "static/js/2.e279aa7b.chunk.js.map": "/roboAppReact/static/js/2.e279aa7b.chunk.js.map",
     "index.html": "/roboAppReact/index.html",
-    "precache-manifest.e3cf458dd7fd6d86cdce8df9704ff36e.js": "/roboAppReact/precache-manifest.e3cf458dd7fd6d86cdce8df9704ff36e.js",
+    "precache-manifest.f15bf0146f9b499cc27a4b710fb7f73b.js": "/roboAppReact/precache-manifest.f15bf0146f9b499cc27a4b710fb7f73b.js",
     "service-worker.js": "/roboAppReact/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/roboAppReact/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.0ddb6699.chunk.css.map": "/roboAppReact/static/css/main.0ddb6699.chunk.css.map",
-    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/roboAppReact/static/js/2.cab51068.chunk.js.LICENSE.txt"
+    "static/js/2.e279aa7b.chunk.js.LICENSE.txt": "/roboAppReact/static/js/2.e279aa7b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fdb2b136.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.cab51068.chunk.js",
+    "static/js/2.e279aa7b.chunk.js",
     "static/css/main.0ddb6699.chunk.css",
-    "static/js/main.575fe5ea.chunk.js"
+    "static/js/main.f04f9562.chunk.js"
   ]
 }
